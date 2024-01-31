@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     link: [
       { rel: 'icon', type: 'image/png', href: '/favicon.png' }
     ],
+    title: 'Simply Royalty'
   }},
   devtools: { enabled: true },
   modules: ['@nuxtjs/google-fonts'],
